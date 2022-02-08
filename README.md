@@ -14,6 +14,8 @@ References:
 
 Note:  Reference #2 is the source of the infamous, 'bachelor', 'badge', 'baby', 'jar' dictionary.
 
+NOTE:  This data structure has been [updated and is now part of the AMYR library](https://github.com/theAlgorithmist/AMYR).
+
 
 Author:  Jim Armstrong - [The Algorithmist]
 
